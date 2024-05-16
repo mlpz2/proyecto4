@@ -1,0 +1,5 @@
+1) Conocimientos básicos de desarrollo web con lenguaje HTML.
+
+2) Conocimientos básicos de CSS.
+
+3) Conocimientos de GitHub para crear repositorios en la nube, dado que ya tenía creada la cuenta de GitHub antes del máster.
