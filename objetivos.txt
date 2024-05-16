@@ -1,0 +1,13 @@
+1) Conocer las herramientas de control de versiones como Git, GitHub, Gitkraken y emuladores de terminal como Hyper o Tabby.
+
+2) Mejorar mis conocimientos y comprensión del desarrollo web, incluyendo HTML, CSS y JavaScript.
+
+3) Mejorar mis conocimientos en backend utilizando otros lenguajes de desarrollo web como Node o Express que figuran en el temario del máster.
+
+4) Construir bases de datos eficientes y seguras con MongoDB o MySQL según la programación del máster.
+
+5) Crear webs responsive y atractivas.
+
+6) Obtener experiencia práctica a través de proyectos reales individuales y de trabajo en equipo.
+
+7) Y construir un portfolio profesional sólido para mejorar profesionalmente.
