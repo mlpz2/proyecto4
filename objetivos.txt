@@ -3,3 +3,6 @@
 2) Mejorar mis conocimientos y comprensión del desarrollo web, incluyendo HTML, CSS y JavaScript.
 
 3) Mejorar mis conocimientos en backend utilizando otros lenguajes de desarrollo web como Node o Express que figuran en el temario del máster.
+
+4) Construir bases de datos eficientes y seguras con MongoDB o MySQL según la programación del máster.
+
