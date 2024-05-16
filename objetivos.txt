@@ -1,0 +1,1 @@
+1) Conocer las herramientas de control de versiones como Git, GitHub, Gitkraken y emuladores de terminal como Hyper o Tabby.
