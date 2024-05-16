@@ -6,3 +6,4 @@
 
 4) Construir bases de datos eficientes y seguras con MongoDB o MySQL según la programación del máster.
 
+5) Crear webs responsive y atractivas.
