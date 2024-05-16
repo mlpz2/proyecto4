@@ -7,3 +7,5 @@
 4) Construir bases de datos eficientes y seguras con MongoDB o MySQL según la programación del máster.
 
 5) Crear webs responsive y atractivas.
+
+6) Obtener experiencia práctica a través de proyectos reales individuales y de trabajo en equipo.
